@@ -5,7 +5,7 @@ import PrivetRoute from "./PrivetRoute";
 import PDFViewer from "../Components/Pages/Documents/PDFViewer";
 import Settings from "../Components/Pages/Settings/Settings";
 import LoginPage from "../Components/Pages/LoginPage";
-import SingUpPage from "../Components/Pages/SingupPage";
+import SingUpPage from "../Components/Pages/SingUpPage";
 
 export const router = createBrowserRouter([
   {
@@ -36,7 +36,7 @@ export const router = createBrowserRouter([
           </PrivetRoute>
         ),
       },
- 
+
       // {
       //   path: "/expense-by-property/edit",
       //   element: (
