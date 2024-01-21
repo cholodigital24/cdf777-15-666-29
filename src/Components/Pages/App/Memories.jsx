@@ -4,7 +4,7 @@ const memoriesArray = [
     memoryName: "UNICEF Bangladesh",
     visitedDate: "May 11, 2023",
     imageURL:
-      "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/418528065_955299552622304_8300110508280065511_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=oESAXQdqumkAX8HJbDG&_nc_ht=scontent.fdac151-1.fna&oh=00_AfAEfWWXsfMSuMluFXx7kKHHHjsUSfBBqi8tWJl7y7TFPA&oe=65A93306",
+      "https://i.ibb.co/427HjB2/bidya-sinha-mim-b467a566d0e7ee6e5122442d53200f19.jpg",
     hashtags: ["#UNICEF Bangladesh", "#UNICEF Bangladesh", "#UNICEF Bangladesh"],
     description:
       "Apex Bangladesh: Innovators in apparel, textiles, and real estate, leading with excellence and ethical practices.",
@@ -14,7 +14,7 @@ const memoriesArray = [
     memoryName: "UNICEF Bangladesh",
     visitedDate: "December 13, 2023",
     imageURL:
-      "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/416341716_953395642812695_3232572249401946687_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=1Y8SvgqH_YIAX_vJOfp&_nc_ht=scontent.fdac151-1.fna&oh=00_AfCsJcMRkuB8PGx7bsYJ3fVMdIVnPzgjkWKB4nkDVcasGA&oe=65A816B0",
+      "https://i.ibb.co/zXYQnfd/395855207-913653960120197-7597048959569618915-n.jpg",
     hashtags: ["#UNICEF Bangladesh", "#UNICEF Bangladesh", "#UNICEF Bangladesh"],
     description:
       "Apex Bangladesh: Innovators in apparel, textiles, and real estate, leading with excellence and ethical practices.",
@@ -24,7 +24,7 @@ const memoriesArray = [
     memoryName: "UNICEF Bangladesh",
     visitedDate: "December 13, 2023",
     imageURL:
-      "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/416386035_952982419520684_3108987132865424413_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=KRf65zlSyI0AX-IoOC9&_nc_ht=scontent.fdac151-1.fna&oh=00_AfB9sLBj_EagnOxcJ5i499Qw3Bjki73BvBh1MJRSldXpWw&oe=65A8542F",
+      "https://i.ibb.co/8N9TTdJ/download.jpg",
     hashtags: ["#UNICEF Bangladesh", "#UNICEF Bangladesh", "#UNICEF Bangladesh"],
     description:
       "Apex Bangladesh: Innovators in apparel, textiles, and real estate, leading with excellence and ethical practices.",
@@ -33,7 +33,7 @@ const memoriesArray = [
     location: "Gazipur, Dhaka",
     memoryName: "VIVO",
     visitedDate: "March 8, 2021",
-    imageURL: "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/415516462_950106613141598_6593273585401280928_n.jpg?stp=dst-jpg_s720x720&_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=5io5CQagkPUAX96kjCG&_nc_oc=AQktj-koyuXExhlk6LYMcCoxJ1uvHYXrQk7ySun8FcG1wvRZ3sz8A48Yrn8fUvbaRx4&_nc_ht=scontent.fdac151-1.fna&oh=00_AfClqYW-bEXmWu0jLZ2W0rdUQOzGsNDbYyAmNd0BMyqPcQ&oe=65A960AF",
+    imageURL: "https://i.ibb.co/sVthTTT/fotojet-2021-08-24t163157-791.webp",
     hashtags: ["#VIVO", "#VIVO", "#VIVO"],
     description:
       "Oppo Mobile Bangladesh: Redefining smartphone experiences with cutting-edge innovation and style.",
@@ -42,7 +42,7 @@ const memoriesArray = [
     location: "Dhaka, Bangladesh",
     memoryName: "VIVO",
     visitedDate: "March 8, 2023",
-    imageURL: "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/415946598_122133440720066265_3193186081174660846_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=OxO0cI2PwtQAX_yzPas&_nc_ht=scontent.fdac151-1.fna&oh=00_AfDsxjF7v8I89Ui11SZxjqOyQp_7bxXwTXJ8qhRALjOtPg&oe=65A8960A",
+    imageURL: "https://i.ibb.co/QKQQ1F9/images.jpg",
     hashtags: ["#VIVO", "#VIVO", "#VIVO"],
     description:
       "Oppo Mobile Bangladesh: Redefining smartphone experiences with cutting-edge innovation and style.",
@@ -51,7 +51,7 @@ const memoriesArray = [
     location: "Tangail, Bangladesh",
     memoryName: "VIVO",
     visitedDate: "August 30, 2022",
-    imageURL: "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/414162892_375061365206578_2335167152453865601_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=JwOx1oBYK8sAX_X5Gzp&_nc_ht=scontent.fdac151-1.fna&oh=00_AfD2F3vBVzocXd5SBtb5WGwd4joJx9K1YFRjDMJQysf7VQ&oe=65A88E4A",
+    imageURL: "https://i.ibb.co/4TKBn6h/Mim-Bidya.webp",
     hashtags: ["#VIVO", "#VIVO", "#VIVO"],
     description:
       "Oppo Mobile Bangladesh: Redefining smartphone experiences with cutting-edge innovation and style.",
@@ -60,7 +60,7 @@ const memoriesArray = [
     location: "Tangail, Bangladesh",
     memoryName: "মহেড়া জমিদার বাড়ি - টাঙ্গাইল",
     visitedDate: "November 19, 2019",
-    imageURL: "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/405764593_941759323977184_5001633675760722589_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=OCAZp2lCGkkAX9bDOab&_nc_ht=scontent.fdac151-1.fna&oh=00_AfBc2s238UX7tOsCqgXOoee2tuq6neF6bGzEDZeR6hMWaA&oe=65A89898",
+    imageURL: "https://i.ibb.co/0BL87pM/saree-bidya-sinha-saha-mim-28.webp",
     hashtags: ["#মহেড়া", "#মহেড়া", "#মহেড়া"],
     description:
       "মহেড়া জমিদার বাড়ি, টাঙ্গাইল: একটি ঐতিহাসিক এবং সৌন্দর্যময় স্থান, যেখানে প্রাকৃতিক সৌন্দর্য এবং স্থানীয় সংস্কৃতি মিলে আছে।",
@@ -69,7 +69,7 @@ const memoriesArray = [
     location: "Bandarban, BD",
     memoryName: "Bandarban Tour",
     visitedDate: "September 26, 2018",
-    imageURL: "https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/404229684_925966775555582_3006342509921782680_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=3irO34SefwYAX86Ps9r&_nc_oc=AQnbnyQ0IJz3n4__gYhVL7SYOAfDK-Q4k3qVUKslwfCCkiSZW7EM0hII87e3jxWvKc8&_nc_ht=scontent.fdac151-1.fna&oh=00_AfBkqhF5uHsDLfyKI_uF76-LPpNJ9ivkkZmo6AzBW9R81Q&oe=65A913C9",
+    imageURL: "https://i.ibb.co/ZHwD6fz/unnamed.jpg",
     hashtags: ["#Bandarban", "#Bandarban", "#Bandarban"],
     description:
       "Bandarban, Bangladesh: প্রাকৃতিক সৌন্দর্যে অমূল্য একটি জায়গা।",
