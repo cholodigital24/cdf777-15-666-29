@@ -5,8 +5,8 @@ function Footer() {
     <footer className="bg-dark text-white py-4 mt-8">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4">
         <div className="mb-4 md:mb-0">
-          <h2 className="text-2xl font-bold">Habib Rahman</h2>
-          <p className="text-gray-300">Area manager | Apex Footwear Ltd.</p>
+          <h2 className="text-2xl font-bold">Bidya Sinha Saha Mim</h2>
+          <p className="text-gray-300">Actress | Tollywood.</p>
         </div>
         <div className="flex items-center space-x-4">
           <a
